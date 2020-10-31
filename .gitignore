@@ -127,6 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+<<<<<<< HEAD
 .ipynb_checkpoints
 config.py
+=======
+.ipynb_checkpoints/
+>>>>>>> bd90b96... update
 api_keys.py
