@@ -1,4 +1,4 @@
-# bootcamp-project-1
+
 # PROJECT SCOPE: Nike vs. Adidas
 - kind of data/field: 
   > Nike & Adidas discounting & review data
