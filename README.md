@@ -3,7 +3,8 @@
 - kind of data/field: 
   > Nike & Adidas discounting & review data
   > https://www.kaggle.com/kaushiksuresh147/adidas-vs-nike
-- kinds of questions we'll ask the data:
+  >
+- primary questions
   > who is more agressive in discounting (nike or adidas)
   > recommend change to discounting strategy (ie: if Adidas is discounting 40% and Nike only 30%)
   > who has higher customer ratings (gender, category)
